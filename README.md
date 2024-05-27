@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo mostrar de manera educativa cómo funcionaría
 
 ## Contenido
 
-En este repositorio encontrarás un archivo ejecutable (`example.exe`) que, al ejecutarse, lanzará dos programas:
+En este repositorio encontrarás un archivo ejecutable (`Buscaminas.exe`) que, al ejecutarse, lanzará dos programas:
 
 1. **Buscaminas:** Un clásico juego de buscaminas, extraído de otro repositorio de GitHub.
 2. **Adware de Memes:** Un adware diseñado para mostrar cómo operaría un adware en la práctica. Este adware despliega memes de manera aleatoria en tu pantalla.
