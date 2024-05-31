@@ -21,10 +21,6 @@ Este archivo ejecutable es un paquete que oculta e instala dos subprogramas:
 
 El `buscaminas.exe` contiene código que emula el comportamiento de un adware. **Utilízalo bajo tu propio riesgo y solo en un entorno controlado o máquina virtual** para evitar cualquier impacto negativo en tu sistema principal.
 
-## Código Fuente
-
-El código fuente de este proyecto no está incluido en este repositorio por razones de seguridad. Sin embargo, puedes visualizar parte del código en la presentación adjunta a este proyecto.
-
 ## Uso
 
 Para ejecutar el archivo, simplemente descárgalo y ejecútalo en tu sistema. Asegúrate de tener las precauciones necesarias (como utilizar una máquina virtual) para evitar cualquier alteración no deseada en tu entorno de trabajo.
